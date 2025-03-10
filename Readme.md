@@ -39,3 +39,6 @@ The frontend provides a responsive and user-friendly shopping experience.
 #milestone 18
 Created an endpoint to receive request from cart page.
 Created an backend endpoint to fetch all the products inside cart with user mail
+#Milestone-18
+Create an endpoint to receive request from cart page.
+Create an backend endpoint to fetch all the products inside cart with user mail
